@@ -6,8 +6,8 @@ body { padding: 0; margin: 0 }
 .unity-mobile #unity-canvas { width: 100%; height: 100% }
 #unity-loading-bar { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); display: none }
 #unity-logo { width: 154px; height: 130px; background: url('logo.gif') no-repeat center }
-#unity-progress-bar-empty { width: 180px; height: 52px; margin-top: 10px; margin-left: 6.5px; background: url('progress-bar-empty-dark.png') no-repeat center }
-#unity-progress-bar-full { width: 0%; height: 52px; margin-top: 10px; background: url('progress-bar-full-dark.png') no-repeat center }
+#unity-progress-bar-empty { width: 141px; height: 52; margin-top: 10px; margin-left: 6.5px; background: url('barload.png') no-repeat center }
+#unity-progress-bar-full { width: 0%; height: 52px; margin-top: 10px; background: url('barload1.png') no-repeat center }
 #unity-footer { position: relative }
 .unity-mobile #unity-footer { display: none }
 #unity-logo-title-footer { float:left; width: 102px; height: 38px; background: url('game icom.png') no-repeat center }
